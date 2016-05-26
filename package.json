@@ -1,0 +1,15 @@
+{
+  "name": "enron.emails",
+  "version": "1.0.0",
+  "description": "A file parser and layouter for subset of public enron emails",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrei Kashcha",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anvaka/enron.emails"
+  }
+}
